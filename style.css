@@ -1,0 +1,28 @@
+body {align-items: center;}
+h1 {text-align: center;}
+h2 {text-align: center;}
+div {text-align: center;}
+
+
+
+.photo  {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 10%;
+    }
+
+    .bigPhoto  {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    .photoTable{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80px;
+
+
+    }
