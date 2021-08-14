@@ -1,6 +1,6 @@
 **<h1>Crysto - Full-Stack Project </h1>**
 
-`Web site for searching and view of cryptocurrency market.`
+`Website for searching and view of the cryptocurrency market..`
 
 ---
 
@@ -10,6 +10,6 @@
 
 
 ***
-> :link: [Crysto WebSite](http://crysto.atwebpages.com) 
+> :link: [View WebSite](http://crysto.atwebpages.com) 
 ***
 
