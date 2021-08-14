@@ -1,6 +1,6 @@
 **<h1>Crysto - Full-Stack Project </h1>**
 
-`Website for searching and view of the cryptocurrency market..`
+`Website for searching and view of the cryptocurrency market.`
 
 ---
 
