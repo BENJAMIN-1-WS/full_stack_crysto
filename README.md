@@ -1,4 +1,4 @@
-**<h1>Crysto - Full-Stack Project </h1>**
+**<h1>Crysto - Full-Stack Project  🪙 </h1>**
 
 `Website for searching and view of the cryptocurrency market.`
 
